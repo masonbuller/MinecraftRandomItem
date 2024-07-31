@@ -7,7 +7,7 @@
 <br>
 
 <h2>YouTube Overview</h2>
-<p>Minecraft Random Item Plugin Video</p>
+<p>Minecraft Hotbar Randomizer Plugin Video</p>
 <p>
   <a href=" ">
   <img src=" " height=80% width= 80% alt="Minecraft Hotbar Randomizer Video Thumbnail">
