@@ -1,13 +1,11 @@
-# MinecraftRandomItem
-
-<h1>Minecraft Block Explosion</h1>
+<h1>Minecraft Item Randomizer</h1>
 <h2>Description</h2>
 <p>Project consists of a Java based plugin for Minecraft that generates a random item and places it in the players hotbar every minute. If the players inventory is full, the item will generate on the block that the player is standing on at the time of generation.</p>
 
 <br>
 
 <h2>YouTube Overview</h2>
-<p>Minecraft Hotbar Randomizer Plugin Video</p>
+<p>Minecraft Item Randomizer Plugin Video</p>
 <p>
   <a href=" ">
   <img src=" " height=80% width= 80% alt="Minecraft Hotbar Randomizer Video Thumbnail">
