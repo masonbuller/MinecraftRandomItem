@@ -7,14 +7,14 @@
 <h2>YouTube Overview</h2>
 <p>Minecraft Item Randomizer Plugin Video</p>
 <p>
-  <a href=" ">
-  <img src=" " height=80% width= 80% alt="Minecraft Hotbar Randomizer Video Thumbnail">
+  <a href="https://youtu.be/YyOmFCf_8n8">
+  <img src="https://imgur.com/oG44mSn.png" height=80% width= 80% alt="Minecraft Hotbar Randomizer Video Thumbnail">
 </a></p>
 
 <br>
 
 <h2>Available Commands</h2>
-
+  <img src="https://imgur.com/IaksGHj.png" height=80% widht=80% alt="Minecraft randomizer commands">
 
 <br>
 <h2>Languages Used</h2>
