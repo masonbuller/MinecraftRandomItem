@@ -33,7 +33,7 @@
 - <b>Spigot</b>
 
 
-<h2>Envoirnments Used</h2>
+<h2>Environments Used</h2>
 
 - <b>IntelliJ IDEA</b>
 - <b>Windows 10</b>
